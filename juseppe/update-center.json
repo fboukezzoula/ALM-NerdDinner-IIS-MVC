@@ -1,0 +1,10 @@
+updateCenter.post(
+{
+  "updateCenterVersion": 1,
+  "id": "juseppe",
+  "plugins": {},
+  "signature": {
+    "certificates": []
+  }
+}
+);
